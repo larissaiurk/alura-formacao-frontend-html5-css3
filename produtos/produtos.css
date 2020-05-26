@@ -80,3 +80,14 @@ nav a:hover{
   font-size: 18px;
 }
 
+footer{
+  text-align: center;
+  background: url("../images/bg.jpg");
+  padding: 40px 0;
+}
+
+footer .copyrigth{
+  color: #fff;
+  font-size: 13px;
+  margin-top: 20px;
+}
